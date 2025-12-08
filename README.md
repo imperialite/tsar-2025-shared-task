@@ -32,7 +32,7 @@ submissions/
  ├── run1.jsonl 
  └── run2.jsonl
 ```
-The scrip will:
+The script will:
 1. Read gold data (`tsar2025_test.jsonl`) and submissions from `submissions/<team>/`.
 2. Align system outputs to gold entries (partial submissions supported).
 3 Compute:
